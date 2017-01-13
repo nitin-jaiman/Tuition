@@ -2,23 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54864d4b-7ebf-4871-a22d-8c6a9878280c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.openshift/action_hooks/start" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.openshift/action_hooks/stop" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.openshift/cron/README.cron" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.openshift/cron/daily/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.openshift/cron/hourly/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.openshift/cron/minutely/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.openshift/cron/monthly/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.openshift/cron/weekly/README" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.openshift/cron/weekly/chrono.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.openshift/cron/weekly/chronograph" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.openshift/cron/weekly/jobs.allow" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.openshift/cron/weekly/jobs.deny" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.openshift/markers/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diy/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diy/testrubyserver.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Tuition.iws" />
@@ -1517,7 +1500,7 @@
       <workItem from="1483165603306" duration="50005000" />
       <workItem from="1484042976141" duration="438000" />
       <workItem from="1484210097100" duration="2573000" />
-      <workItem from="1484223477215" duration="2306000" />
+      <workItem from="1484223477215" duration="2424000" />
     </task>
     <task id="LOCAL-00001" summary="fc">
       <created>1484293441641</created>
@@ -1533,11 +1516,18 @@
       <option name="project" value="LOCAL" />
       <updated>1484294545429</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Merge branch 'master' of ssh://springboot-vocabulary.rhcloud.com/~/git/springboot&#10;&#10;# Please enter a commit message to explain why this merge is necessary,&#10;# especially if it merges an updated upstream into a topic branch.&#10;#&#10;# Lines starting with '#' will be ignored, and an empty message aborts&#10;# the commit.&#10;">
+      <created>1484294652359</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1484294652359</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="112666000" />
+    <option name="totallyTimeSpent" value="112784000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1650,7 +1640,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fc" />
-    <option name="LAST_COMMIT_MESSAGE" value="fc" />
+    <MESSAGE value="Merge branch 'master' of ssh://springboot-vocabulary.rhcloud.com/~/git/springboot&#10;&#10;# Please enter a commit message to explain why this merge is necessary,&#10;# especially if it merges an updated upstream into a topic branch.&#10;#&#10;# Lines starting with '#' will be ignored, and an empty message aborts&#10;# the commit.&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of ssh://springboot-vocabulary.rhcloud.com/~/git/springboot&#10;&#10;# Please enter a commit message to explain why this merge is necessary,&#10;# especially if it merges an updated upstream into a topic branch.&#10;#&#10;# Lines starting with '#' will be ignored, and an empty message aborts&#10;# the commit.&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
